@@ -1,0 +1,28 @@
+_repo: Geological-facts-or-the-crust-of-the-earth-what-it-is-and-what-are-its-uses_72100
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barrett, W. G.
+    gutenberg_agent_id: '56538'
+    url: http://www.gutenberg.org/2009/agents/56538
+description: ''
+gutenberg_issued: '2023-11-12'
+identifiers:
+  gutenberg: '72100'
+language: en
+pgterms:marc904: http://books.google.com/books?id=sa3aNKhkUOsC
+pgterms:marc905: 20061020221043barrett
+pgterms:marc906: '1855'
+pgterms:marc907: GB
+production_note: Richard Tonsing, Charlene Taylor, Bryan Ness, and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This book was produced from scanned images
+  of public domain material from the Google Books project.)
+publication_note: '  $aUnited Kingdom :$bArthur Hall, Virtue, & co., $c1855.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Geological facts; or, the crust of the earth, what it is, and what are its
+  uses
+url: http://www.gutenberg.org/ebooks/72100
